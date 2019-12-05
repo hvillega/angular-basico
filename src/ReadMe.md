@@ -1,0 +1,1 @@
+Este Workspace lo he creado para probar la instalación básica de Angular en esta herramienta.
